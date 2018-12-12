@@ -1,0 +1,107 @@
+/* * {
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+} */
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+
+.main-body {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.footer-container {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+
+}
+
+
+
+
+
+/*-----------------------------------------------------------------------------------*/
+/* Head of my bootstrap portfolio. Logo and navigation. */
+Header {
+    display: flex;
+    justify-content: space-around;
+}
+.logo {
+    padding-top: 35px;
+}
+
+.logo-name{
+    
+}
+
+.nav1r {
+    justify-content: flex-end;
+}
+
+/* .navbar-big {
+    height: 100px;
+} */
+
+
+
+/*-----------------------------------------------------------------------------------*/
+/*Main bodies content*/
+
+.h1d{
+    font-size:  30px;
+    font-weight: 700;
+}
+
+#myself {
+    margin-right: 20px;
+    border: 1px solid black;
+    float: left;
+}
+
+p {
+    text-align: justify;
+}
+
+
+.cont23 {
+    border: 1px solid black;
+}
+
+.row23 {
+    border: 1px solid black;
+}
+
+/* Portfolio page */
+.project-title {
+    background: rgba(rgb(5, 53, 53), rgb(41, 41, 41), rgb(32, 32, 32), 1);
+    /* border: 1px solid black; */
+    position: absolute;
+    width: 100%;
+    bottom: 30px;
+    right: 0px;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+/*-----------------------------------------------------------------------------------*/
+/*Footer*/
+#cent {
+   
+    text-align: center;
+}
+
